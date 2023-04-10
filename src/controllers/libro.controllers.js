@@ -4,6 +4,7 @@ import Autor from "../models/autor.js"
 
 // Crear un libro y añadir un autor 
 //owo
+//ya owo
 
 export const crearLibro = async (req,res) =>{
   const {nombre,
